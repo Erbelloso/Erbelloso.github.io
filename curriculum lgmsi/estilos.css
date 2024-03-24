@@ -1,0 +1,287 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.head h1 {
+    margin: 0;
+    color: #EADDCA ;
+}
+
+.header-content img {
+    width: 250px;
+    height: 250 px;
+    margin-right: 20px;
+    float: left;
+}
+
+.introducion {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    margin-top: 20px; 
+    color: black;
+}
+
+.navbar {
+    background-color: #ca9696; 
+    padding: 10px 0; 
+    text-align: center; 
+}
+
+.navbar table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+}
+
+.navbar table td {
+    padding: 10px; 
+}
+
+.navbar table td a {
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 18px; 
+}
+
+.pie {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pie a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.pie a:hover {
+    background-color:#ED0808;
+    color:#FFFFFF;
+}
+
+.contenido.experiencia ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contenido.experiencia ul li {
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contenido.experiencia ul li:hover {
+    background-color: #e0e0e0;
+}
+.contenido.experiencia {
+    margin: 20px;
+}
+
+.contenido.experiencia ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contenido.experiencia ul li {
+    margin-bottom: 10px;
+}
+
+.pie.experiencia {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pie.experiencia a {
+    color: #fff;
+  
+}
+
+.head.formación {
+    background-color: #4285f4; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido.formación {
+    margin: 20px;
+}
+
+.contenido.formación ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contenido.formación ul li {
+    margin-bottom: 10px;
+    background-color: #f7f7f7; 
+    padding: 10px;
+    border-radius: 5px;
+  
+}
+
+.contenido.formación ul li:hover {
+    background-color: #e0e0e0;
+}
+
+.pie.formación {
+    background-color: #4285f4; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pie.formación a {
+    color: #fff;
+
+}
+
+
+.head.idiomas{
+    background-color: aquamarine; 
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido.idiomas {
+    margin: 20px;
+    font-size: 20px; 
+}
+
+
+.pie.idiomas {
+    background-color: #673ab7; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pie.idiomas a {
+    color: #fff;
+    
+}
+
+.head {
+    background-color: #2196F3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido.competencias {
+    margin: 20px;
+}
+
+.contenido.competencias ul {
+
+    padding: 0;
+    margin: 0;
+}
+
+.contenido.competencias ul li {
+    margin-bottom: 10px;
+    background-color: #f0f0f0; 
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.competencias {
+    background-color: #2196F3; 
+    color:black;
+    padding: 20px;
+    text-align: center;
+}
+
+.competencias a {
+    color: #fff;
+
+}
+
+.head otros {
+    background-color: #ff9800; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido.otros {
+    margin: 20px;
+    font-size: 16px;
+  
+}
+
+.contenido.otros p {
+    margin-bottom: 15px;
+}
+
+.pie.otros {
+    background-color: #ff9800; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.pie.otros a {
+    color: #fff;
+ 
+}
+
+.head {
+    background-color: #4caf50; 
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido.cursos {
+    margin: 20px;
+}
+
+.contenido.cursos ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contenido.cursos ul li {
+    margin-bottom: 10px;
+    background-color: #f9f9f9; 
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contenido.cursos ul li:hover {
+    background-color: #e0e0e0; 
+}
+
+.cursos {
+    background-color: #4caf50;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.cursos a {
+    color: #fff;
+              
+}
+         
+
+
